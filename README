@@ -1,0 +1,16 @@
+WPO LOG
+=======
+
+Proyecto que realicé en 2021 para hacer un testeo de la puntuación
+WPO a lo largo del tiempo, guardándolo en una BD de MySQL y que se
+mostraba en Grafana.
+
+La idea es aprovechar el mismo concepto pero que funcione independientemente,
+sin grafana y posiblemente sin usar Symfony, o en todo caso, que sea un
+vendor.
+
+TODO:
+
+* Refactorizar funciones.
+* Decidir como guardar la configuración y los logs.
+* Encapsularlo en un vendor?
